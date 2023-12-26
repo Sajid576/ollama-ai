@@ -1,0 +1,233 @@
+1. Welcome
+
+Welcome to Bini Fintech Ltd (hereby referred to as “Bini”, “Platform”, or “We”). The following terms and conditions govern your access (including any person or entity you enable/allow access through your access) and use of this application (“App”), the contents contained herein (“Contents”), and the services offered on the App (“Services”).
+
+2. Platform for Communication
+
+You agree, understand, and acknowledge that Bini is an online platform that enables you to purchase Sanchayapatras, or connects you to your preferred Brokerage/Asset Management Companies (AMCs) for the purpose of trading in stocks, bonds, and mutual funds at the price indicated therein at any time from any location using a payment method of your choice. You further agree and acknowledge that we are only a facilitator and cannot be a party to or control in any manner any transactions on the Platform or on a payment gateway as made available to you by an independent service provider. Accordingly, the contract pertaining to the trading of stocks, bonds, and mutual funds on the Platform shall be a strictly bipartite contract between you and the Brokerage/AMCs on our Platform while the payment processing occurs between you, the payment service provider, and in case of prepayments with electronic cards, your issuer bank. Accordingly, the contract of payment on the Platform shall be strictly a bipartite contract between you and the payment service provider as listed on our Platform.
+
+3. Acceptance of terms
+
+3.1. In order to browse, use, and/or access the App and/or the Services you are required to agree to, comply with, and be bound by the following terms and conditions. You will be deemed to have accepted these terms and conditions by browsing, viewing, accessing, and/or using the App and/or the Services offered on the App.
+
+3.2. If you disagree with any part of these terms and conditions, please do not continue to browse, use, and/or access the App and /or the Services.
+
+3.3. Additionally, there may be additional terms and conditions that apply to individual Services which you will be deemed to have accepted if you register for such Services.
+
+3.4. The App may be used by (i) natural persons who have reached 18 years of age and (ii) corporate legal entities, e.g. companies.
+
+4. Registration and use of the Services and/or App
+
+4.1. Our Services include allowing users to access price information of market-listed securities (e.g. stocks, bonds) and non-listed mutual funds, assessing different investment options available to users based on their perceived riskiness as widely understood and accepted by market participants, placing buy/sell trade order requests for stocks, bonds and mutual funds with Brokers and AMCs, placing BO account opening request to users’ preferred broker/s, as well as BO account funding and withdrawal requests with Brokers and making online payments through payment gateway service providers for related BO account funding requests and mutual fund purchases, monitoring past financial transaction history and financial performance of users’ holdings of stocks, bonds, and mutual funds. It also allows users to purchase government bonds like Sanchayapatras.
+
+4.2. In order to access/use or continue to access/use the App and/or certain Services, you may be required to provide certain personal information. You agree to provide true, accurate, updated, and complete information when registering at the App or for such Services.
+
+4.3. You agree to access/use the App and/or Services only for purposes that are expressly permitted by (i) these terms and conditions and (ii) any applicable law, regulation, guideline or instruction from Bini, the industry regulator, or any other competent authority or any policy adopted by Bini with regard to the acceptable access/use of the App and/or Services.
+
+4.4. You agree that you are solely responsible and liable for and that Bini has no responsibility to you or to any third party for any breach of your obligations under these terms and/or conditions and for the consequences (including any loss or damage which Bini may suffer) for any such breach.
+
+5. Prohibited use of the App, Services, and/or Contents
+
+5.1. You specifically agree not to access/use (or attempt to access/use) any part of the App and/or Services through any form of automated means (including the use of scripts or web crawlers) and shall ensure that you comply with, in addition to these terms and conditions, instructions set out in relation to the access/use of any part of the App and/or Services.
+
+5.2. You agree that you will not engage in any form of activity that interferes with or disrupts any part of the App and/or Services (or the servers and networks that are connected to the App and/or Services).
+
+5.3. You agree that you will not reproduce, duplicate, copy, sell, trade, or resell any part of the App and/or Services for any purpose.
+
+5.4. You, and any person or entity you allow to access/use the App and/or Services through your internet access/access to the App and/or Services, are not allowed to:
+
+5.4.1. Copy, disclose, modify, reformat, display, distribute, license, transmit, sell, perform, publish, transfer, link to, reverse engineer or decompile or otherwise make available any part of the App and/or Services except as set out in these terms and conditions;
+
+5.4.2. Include or create links (including deep links) to or from the App and/or Services;
+
+5.4.3. Replicate the App and/or Services or create a separate border around any part of the App and/or Services (also known as "framing");
+
+5.4.4. Use the App and/or Services for storing, reproducing, transmitting, communicating, or receiving any Offending Material. For the purpose of these terms and conditions, Offending Material means any content transmitted using the App and/or Services that is:
+
+5.4.4.1. In breach of any law, regulation, guideline, or instruction invoked by Bini, industry regulator, or any other competent authority or any policy adopted by Bini with regard to the acceptable access/use of the App and/or Services, or
+
+5.4.4.2. Abusive, indecent, defamatory, obscene, pornographic, offensive, or menacing or that has the effect (as may be contemplated by a reasonable person) of causing the recipient to feel so harassed, abused, or offended; or
+
+5.4.4.3. Designed to cause annoyance, inconvenience, or needless anxiety to any person or entity; or
+
+5.4.4.4. In breach of confidence, intellectual property rights, privacy, or any right of a third party.
+
+5.4.5. Hack into, make excessive traffic demands, probe or port scan other computers, deliver viruses, mail bombs, chain letters, or pyramid schemes, or otherwise engage in any other behavior intended to inhibit other users from accessing/using any part of the App and/or Services or any other App or services;
+
+5.4.6. Collect and process others' personal data, except in accordance with applicable data protection law and these terms and conditions;
+
+5.4.7. Advertise or offer to sell goods or services on the pretext that the same are endorsed, offered for sale, or originate from Bini;
+
+5.4.8. Infringe any other person's or entity’s intellectual property rights;
+
+5.4.9. Use the App and/or Services to harvest or collect information about users of the App and/or Services or to post or otherwise distribute unauthorized or unsolicited advertising, junk, or bulk email (also known as "spam");
+
+5.4.10. Use any part of the App and/or Services in any way that we in our sole and absolute discretion consider objectionable, inappropriate, likely to injure our business, brand, goodwill, reputation, or otherwise unacceptable;
+
+5.4.11. Use the App and/or Services to send emails and other content coached, phrased, or written in such a manner as to give an impression that the email is correspondence from Bini.
+
+5.4.12. You are responsible for any misuse of the App and Services even if it is by another person or entity using your access to the App or Services.
+
+5.5. We reserve the right to block, remove, edit, or refuse to post any material that you attempt to transmit through the App and/or Services that we deem to be in contravention of these terms and conditions and to take such other action as we in our sole and absolute discretion consider necessary to prevent or remedy any breach of these terms and/or conditions. If you become aware of any content or material circulated using the App and/or Services that are in breach of these terms and/or conditions, Contents or materials on the App and/or Services then we encourage you to promptly inform us by contacting our customer care centre at hello@bini.live. We are not responsible or liable for any failure to remove, block, edit, or delay in removing, etc. any such infringing content or material or third party material from the App and/or Services or for any good faith but wrongful removal of third party material.
+
+6. The information we may collect
+
+6.1. We may collect, inter alia, the following information from you:
+
+6.1.1. Full Name;
+
+6.1.2. Shop/Business/Institute Name;
+
+6.1.3. Business/Institute Type;
+
+6.1.4. Home/Shop/Business Address including District & Thana (Police Station);
+
+6.1.5. Contact Information including Mobile Number, E-mail Address;
+
+6.1.6. Nominee Information including Nominee NID, name, picture, and relationship with user;
+
+6.1.7. Financial account information including Bank/Financial Institution account name, number, and branch information;
+
+6.1.8. Demographic and Personal Information such as identification number (e.g. NID/Passport/Driver’s License Number/eTIN), Nationality, Postcode, Preferences, and Interests; and
+
+6.1.9. Other Information relevant to Registration, Surveys, User Onboarding by licensed financial service providers and/or Offers.
+
+6.2. If you do not wish to register, we may not collect any personal information from you and you may visit our App anonymously. However, you will be bound by these terms and conditions with regard to access/use of this App and/or Services.
+
+7. Use of your Information
+
+7.1. Bini may hold and use the information provided by you for a number of purposes, which may include:
+
+7.1.1. Sharing information with Bini-affiliated financial institutions such as Brokers, AMCs, and others for the purposes of such financial institutions to fulfill their legal and regulatory obligations in providing financial services through Bini, such as but not limited to Know Your Customer (KYC), customer due diligence and user onboarding requirements.
+
+7.1.2. Carrying out any activity in connection with a legal, governmental, or regulatory requirement on Bini in connection with existing or prospective legal proceedings or in respect of any crime or fraud prevention, detection, or prosecution.
+
+7.1.3. Monitoring and/or recording of your communications for Bini’s business purposes such as marketing, quality control, and training, prevention of unauthorized use of Bini’s technical systems, and ensuring effective systems operation in order to prevent, detect, or prosecute any crime or fraud.
+
+7.1.4. Share such information with third parties for Bini’s business purposes such as marketing, quality control, and training, acquisition of customers, agents, and/or merchants, customer services, etc.
+
+7.2. In addition to the above, any information we may collect from you may be used, inter alia, for the following purposes:
+
+7.2.1. To provide Bini Services;
+
+7.2.2. For internal record keeping;
+
+7.2.3. To improve the App (we continually strive to improve our App based on the information and feedback received from you);
+
+7.2.4. To send periodic emails;
+
+7.2.5. To administer a contest, promotion, survey, or other App feature.
+
+7.3. Bini may access your financial information – such as, but not limited to, BO account balance, value and number of shares/bonds/mutual fund units held, gain/loss of financial securities held – from Bini-affiliated Brokers/AMCs, and other financial service providers for the purposes of validating your future trade requests on a real-time basis as well as calculating and displaying relevant analytical information to you.
+
+7.4. We implement a variety of security measures to maintain safety to hold and store your personal information. However, neither we nor any third parties provide any warranty or guarantee as to the security and safety measures related to the storage of your personal information.
+
+8. Intellectual Property Rights
+
+8.1. All copyright, trademarks, patents, brand names, corporate names, and other intellectual property rights in any material or content (including without limitation software, data, applications, information, text, photographs, music, sound, videos, graphics, logos, symbols, artwork, designs, layout, look, appearance and other material or moving images) contained in or accessible via the Services is either owned by Bini or has been licensed to Bini by the rights’ owner(s) for use as part of the Services and/or on the App. The Bini name and logo are registered trademarks of Bini. All trademarks reproduced herein, which are not the property of or licensed to Bini, are the property of their respective owners.
+
+8.2. You are only allowed to access/use the App and/or Services as set out in these terms and conditions. If you wish to access/use the Contents or any part thereof for any other purpose other than reviewing it on the App then you will be required to obtain the prior written permission of the owner of the rights in that material. All rights are expressly reserved.
+
+8.3. Having noted the above you shall not be entitled in respect of any Contents (wholly or partly):
+
+8.3.1. To reproduce, duplicate, copy, sell, trade, or resell any part of the Contents for any purpose; or
+
+8.3.2. To pass any part of the Contents on to third parties or to allow third parties to access/use any part thereof for any purpose in any way unless and to the extent expressly permitted; or
+
+8.3.3. To change, edit, modify, reformat, or adapt any part of the Contents in any way.
+
+8.4. Any unauthorized access/use of this App, Services, and/or Contents may give rise to a claim for damages, penalty, losses, legal suit, and/or amount to a criminal offense. Further, you will also be liable for all costs and consequences arising out of any claim, demand, penalty, proceeding, or legal suit (civil or criminal) initiated as a result of your unauthorized access/use of this App, Services, and/or Contents.
+
+8.5. Any unauthorized use, reproduction, or alteration of the Bini name, logo, and/or any components of the same are strictly prohibited and Bini will utilize all resources to claim, demand, bring legal proceedings against such unauthorized use, reproduction, or alteration and extend all-out efforts to penalize, prosecute and seek compensation, damages, losses and costs from such persons or entities.
+
+9. No Warranties
+
+9.1. Any information or materials provided herein is solely for your personal information and convenience and is not intended for any commercial use nor shall be relied upon for making your investment decisions and therefore the same shall not be treated as a representation or offer of any kind. Such information or materials are not appropriate for the purposes of making a decision to carry out a transaction or trade, nor does it provide any form of advice (investment, tax, legal) amounting to investment advice, or make any recommendations regarding particular financial instruments, investments, products or services.
+
+9.2. The information contained in this App, Services, and/or Contents may be out of date and/or may contain other errors or omissions. Bini provides the Services and Contents on the App "as is" and makes no warranties of any kind, either express or implied, with respect to the Services and/or the Contents (including without limitation regarding their satisfactory quality, freedom from viruses or other harmful components, fitness for a particular purpose, suitability, reliability, timeliness, accuracy, completeness, security or that they are free from error).
+
+9.3. Neither Bini nor any third party provides any warranty or guarantee or assumes any liability or responsibility as to the accuracy, timeliness, performance, completeness, suitability, or otherwise of the information or materials (including but not limited to Contents, Services, activities or offers) found, offered or represented on this App for any particular purpose. You acknowledge that such information, materials, Contents, Services, activities, or offers may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+
+9.4. Bini reserves the right to replace or amend the features, facilities, and charges, and the information and materials pertaining to such features, facilities, and charges, in relation to the Services, Contents, App, and Bini Services at any time. All Bini Services offered are subject to the standard Terms and Conditions for Bini Services.
+
+10. Third-Party Hyperlinks and Apps
+
+10.1. From time to time, this App may also include links to other Apps. These links are provided for your convenience and to provide further information only.
+
+10.2. The inclusion of such links to third-party Apps not controlled by us does not imply any endorsement by us of such Apps and as such any transaction you may make with any third party flowing from such links is carried out entirely at your own risk and we accept no liability for any damages or losses that you may suffer as a result.
+
+10.3. These third-party Apps have separate and independent terms and conditions and privacy policies for their access/use. Neither we nor any third parties provide any warranty or guarantee or assume any liability or responsibility as to the accuracy, timeliness, performance, completeness, suitability, or otherwise of the information or materials (including but not limited to contents, services, activities, or offers) found, offered or represented on the linked App(s) for any particular purpose. You acknowledge that such information or materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. Bini explicitly disclaims any responsibility or liability as to any consequential losses or damages arising as a consequence of any of the above.
+
+11. Use of Cookies
+
+We use cookies at or in our App for identifying users during navigation of the App during an internet session and identifying returning Bini users. However, we do not take any responsibility for any third-party Apps whose links have been included in our App as to whether such Apps use cookies or not.
+
+12. Liability
+
+12.1. Bini will serve its customers with an accurate set of personal finance and investment-related data and information on the best effort-basis. However, Bini will source most of this data and information from dependent third parties- hence there can be data-quality issues. In such an unlikely situation, Bini will not be responsible for subsequent consequences, if any.
+
+12.2. You acknowledge and undertake that you are accessing the Services on the Platform and transacting at your own risk and are using your best and prudent judgment before entering into any transactions through the Platform. We shall neither be liable nor responsible for any actions or inactions of the Brokerages/AMCs nor any breach of conditions, representations, or warranties by the Brokerage/AMCs and hereby expressly disclaim all responsibility and liability in that regard. We shall not mediate or resolve any dispute or disagreement between you and the concerned Brokerage/AMCs. We shall neither be liable nor responsible for any actions or inactions of any other service provider as listed on our Platform which includes but is not limited to payment service providers, etc.
+
+12.3. Bini cannot be responsible if Bini users either knowingly or unknowingly share their login information, such as username and password.
+
+12.4. Bini cannot be held responsible for the accuracy of price information published by Brokers/AMCs. Furthermore, price information, especially of listed shares, will be dynamic and subject to constant change during market trading hours.
+
+12.5. Bini cannot bear any responsibility/legal liability for how Bini-affiliated institutions/partners use the information made available to them by Bini following user consent.
+
+12.6. Bini shall not be liable for any loss of use, access, profits, or data or any direct, indirect, special, or consequential damages or losses, whether such losses or damages arise in contract, negligence, tort or otherwise including without limitation to the foregoing any damages or losses in relation to:
+
+12.6.1. Your use of, reliance upon or inability to use the App, Services and/or Contents;
+
+12.6.2. If you are dissatisfied or you do not agree with any part of the App, Services, Contents, and/or any of these terms and conditions, your sole and exclusive remedy is to discontinue your use/access of this App, Services, and/or Contents.
+
+13. Indemnity by You
+
+13.1. You irrevocably agree to indemnify Bini and any of our third-party providers (hereinafter collectively referred to as the “ Indemnified Parties”) fully against and to hold the Indemnified Parties harmless on demand from all losses, damages, demands, claims, proceedings, suits, costs and expenses (including reasonable legal costs and expenses) and liabilities howsoever incurred by the Indemnified Parties as a result of any claims, demands, proceedings or suits by a third party resulting from your use/access of the App, Services and/or Contents in breach or non-observance of these terms and conditions.
+
+13.2. We shall notify you of any such claims, demands, proceedings, or suits that we or any of the other Indemnified Parties receive and you hereby agree to provide us and/or any of the Indemnified Parties with full authority to defend or settle such claims, demands, proceedings or suits and shall provide us and/or any of the Indemnified Parties with all reasonable assistance necessary to defend or settle such claims, demands, proceedings or suits at your sole cost and expense.
+
+14. General
+
+14.1. The information and materials provided in relation to the Contents and Services on the pages of this App are for your general information and use/access only and any part of such information and materials is subject to change without notice at our sole discretion.
+
+14.2. Bini reserves the right to review, revise, amend, and/or change the Services, Contents, App, its policies, and/or these terms and conditions at any time without any prior notice and you will be deemed to have been bound by such revision, amendment or change by continuing to use/access the App, Services and/or Contents.
+
+14.3. The construction, validity, and performance of these terms and conditions shall be governed in all respects by the prevailing laws of Bangladesh. Your use/access of this App and any dispute arising out of such use/access of the App is also subject to the prevailing laws of Bangladesh.
+
+14.4. If any part of the provisions of these terms and conditions is declared by any judicial or other competent authority to be void, voidable, illegal, or otherwise unenforceable, such a term shall be amended or at the discretion of Bini it may be severed from these terms and conditions and the remaining part of the affected provision and other remaining provisions of these terms and conditions shall remain in full force and effect.
+
+14.5. Except where these terms and conditions provide otherwise, the rights and remedies contained herein are cumulative and not exclusive to rights and remedies provided by law. The failure by Bini to enforce at any time or for any period any one or more of the terms and conditions shall not be a waiver of them or of the right at any time subsequently to enforce all terms and conditions.
+
+14.6. Bini shall not be held responsible for any delay or failure to comply with any of its obligations under these conditions if the delay or failure arises from any cause that is beyond our reasonable control. This condition does not affect your statutory rights.
+
+14.7. You shall not assign these terms and conditions to a third party. Bini may assign these terms and conditions in whole or part to any third party at its discretion.
+
+14.8. You acknowledge that in agreeing to these terms and conditions you do not rely on, shall have no remedy in respect of, any statement, representation, warranty, guarantee, or understanding (whether negligently or innocently made) of any person (whether a party to these terms and conditions or not) other than as expressly set out in these terms and conditions as a warranty.
+
+14.9. In the event that we decide to permanently withdraw the Services, Contents, and/or the App, Bini shall not be liable to you for any ensuing loss or damage occasioned to you from such a suspension, change, or termination. Termination shall however not affect your accrued liabilities towards us.
+
+15. Privacy Policy
+
+15.1. At Bini, we are committed to protecting the personal and financial information that you submit to us. This information is provided when you register to receive certain services or products, such as online share trading. The personal information we get from you will help us provide you with improved services and products that match your needs as closely as possible.
+
+15.2. We, at Bini, acknowledge and accept that the personal details that you impart to us are to be kept in strict confidentiality and to use the information only in a manner which would be beneficial to our customers. We consider our relationship with you as invaluable and strive to respect and safeguard your right to privacy. We shall protect the personal details received from you with the same degree of care, but no less than a reasonable degree of care, to prevent the unauthorized use, dissemination, or publication of this information as we protect our own confidential information of a like nature. We shall use the personal information to improve our service to you and to keep you updated about our new product or information that may be of interest to you. The information collected from you would be used in the right spirit and context in which it is intended to be used.
+
+15.3. Bini will strictly maintain the confidentiality of customer’s personal information and financial data. No such personal information and financial data will be shared with any external parties without explicit consent taken from the respective customer. Management officials' access to customer data will be limited to the extent needed for servicing customer’s designated problem/ request.
+
+15.4. No personal documents such as photos, NID or TIN, etc. of Bini’s customers will be shared with any unauthorized external party. Such documents will be shared only if such is necessary for the work assigned to Bini by its customer.
+
+16. Non-discrimination Policies
+
+Bini and its affiliates prohibit discrimination against users based on race, religion, national origin, disability, sex, marital status, gender identity, age or any other characteristic protected under applicable law.
+
+17. Governing Law
+
+The terms and conditions shall be construed in accordance with the laws of the People’s Republic of Bangladesh. You agree that the courts, tribunals, and/or quasi-judicial bodies located in Dhaka, Bangladesh shall have the exclusive jurisdiction on any dispute arising inside Bangladesh under this Agreement.
+
+18. Availability of Web-Platform & Data in Transit
+
+We do not warrant that the Platform will be available at all times and that access will not be interrupted, by failures, errors or omissions, or loss of information during transmission. We also do not warrant that no viruses or other contaminating data will be transmitted or that no damage will take place to your computer system. You shall be solely responsible for adequate protection and backup of your system and data. We make no representations or warranties regarding the functionality or performance of any third-party software that may be used in connection with the Platform.
+
+19. Contact Us
+
+If you wish to contact us regarding any questions or comments you may have, please send an email to our customer support email at hello@bini.live, or via our in-app customer support chat feature
